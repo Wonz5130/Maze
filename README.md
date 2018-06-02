@@ -1,6 +1,6 @@
-#Maze
-##A gift for Children's Day
-###操作说明：
+#Maze<br>
+##A gift for Children's Day<br>
+###操作说明：<br>
 	这是一款迷宫小游戏。<br>
 	请选择使用电脑打开。<br>
 	按“上”、“下”、“左”、“右”键<br>
