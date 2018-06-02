@@ -232,7 +232,7 @@ void move1(int maze[20][20]){
             default:break;
         }
         if(maze[18][19] == 4){
-            printf("\n\t\t    Happy Children's Day to 16-EC!\n\n\n");
+            printf("\n\t\t    Happy Children's Day to you!\n\n\n");
             Sleep(2000);  //delay
             //if(++n != 1) //printf("Please press Enter to return the maze.\n");  //请按回车键返回主界面
             //Sleep(2000);  //delay
@@ -300,7 +300,7 @@ void move3(int maze[43][43]){
             default:break;
         }
         if(maze[9][0] == 4){
-            printf("\n\t\t\t\tHappy Children's Day to 16-EC!\n\n\n");
+            printf("\n\t\t\t\tHappy Children's Day to you!\n\n\n");
             Sleep(2000);  //delay
             //if(++n != 1) //printf("Please press Enter to return the maze.\n");  //请按回车键返回主界面
             //Sleep(2000);  //delay
