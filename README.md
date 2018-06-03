@@ -1,11 +1,10 @@
-#Maze<br>
-##A gift for Children's Day<br>
-###操作说明：<br>
+Maze<br>
+A gift for Children's Day<br>操作说明：<br>
 	这是一款迷宫小游戏。<br>
 	请选择使用电脑打开。<br>
 	按“上”、“下”、“左”、“右”键<br>
 	或者“w”、“s”、“a”、“d”(大小写均可，但是要在英文状态下)<br>
-	控制“*”在迷宫中移动，走出迷宫即可获得儿童节祝福。<br>
+	
 	“#”表示墙，空格表示路。<br>
 	游戏总共三个BGM，分别是1——ninelie。2——Dream。3——光辉岁月。<br>
 	你可以自己选择BGM。<br>
