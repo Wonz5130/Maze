@@ -14,7 +14,6 @@ void menu();
 void move1(int maze[20][20]);
 void move3(int maze[43][43]);
 
-//int n = 1;
 
 //easy
 int maze1[20][20] = {{1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1},
