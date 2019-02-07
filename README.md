@@ -32,3 +32,9 @@
 
 ### 一点吐槽：
     每移动一次，屏幕都会闪一下，特别是困难模式，如果引起不适，请选择关闭游戏。
+
+
+### 成果展示：
+![](https://github.com/Wonz5130/Maze/raw/master/img/Snipaste_2019-02-07_18-31-15.png)
+![](https://github.com/Wonz5130/Maze/raw/master/img/Snipaste_2019-02-07_18-31-44.png)
+![](https://github.com/Wonz5130/Maze/raw/master/img/Snipaste_2019-02-07_18-32-06.png)
